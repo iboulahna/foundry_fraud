@@ -1,5 +1,7 @@
 # MLOps Architecture – Détection de Fraude dans Palantir Foundry
 
+![palantir image](https://github.com/user-attachments/assets/d1ac1728-0cdb-44b5-9bdf-4e4865db9d89)
+
 Ce document présente le **schéma de l'architecture MLOps** conçu pour un cas d’usage de **détection de fraude** en environnement **Palantir Foundry**.
 
 ---
